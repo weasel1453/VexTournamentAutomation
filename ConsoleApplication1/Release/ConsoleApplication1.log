@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+ConsoleApplication1.cpp(8): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  ConsoleApplication1.cpp(8): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Generating code
+  All 153 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\TMclachlan\Documents\VexTournamentManagerVisualControler\VexTournamentThing\Release\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\TMclachlan\Documents\VexTournamentManagerVisualControler\VexTournamentThing\Release\ConsoleApplication1.pdb (Full PDB)
